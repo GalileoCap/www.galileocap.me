@@ -14,4 +14,6 @@ Analyzing a 2M vertix utlity distribution network for a client, data and code is
 Scraping and analyzing Argentina, US, and crypto data, e.g. Stocks, Exchange Rate, Crypto coins stable and others.  
 Look for trends, daily change distributions, exchange rate arbitage opportunities, etc.  
 Collect backtesting data not available from other sources.  
-Propose trades, visualize.
+Propose trades, visualize.  
+  
+You can see and use the scripts from [here](https://github.com/GalileoCap/ds_finance_tools)
