@@ -1,13 +1,13 @@
 ## Data Science and Finance
 
-Find me in (LinkedIn)[https://www.linkedin.com/in/galileocap/]
+Find me in [LinkedIn](https://www.linkedin.com/in/galileocap/)
 
 ## Some projects
 
 ### Network Analysis and Simulation
 
 Analyzing a 2M vertix utlity distribution network for a client, data and code is confidential.  
-(Here)[https://github.com/GalileoCap/ds_networks_study_1] I share some general tools and methods.
+[Here](https://github.com/GalileoCap/ds_networks_study_1) I share some general tools and methods.
 
 ### Finance Analysis for Trading
 
