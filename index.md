@@ -16,4 +16,4 @@ Look for trends, daily change distributions, exchange rate arbitage opportunitie
 Collect backtesting data not available from other sources.  
 Propose trades, visualize.  
   
-You can see and use the scripts from [here](https://github.com/GalileoCap/ds_finance_tools)
+You can see and use the scripts from [here](https://github.com/GalileoCap/ds_finance_tools) and try it [here](https://colab.research.google.com/drive/1pNGW--nfeHYF7zewTr5haO4LXBRpRd10?usp=sharing) without installing (using Google Colab)
