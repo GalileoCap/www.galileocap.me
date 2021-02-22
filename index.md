@@ -1,5 +1,4 @@
-# GalileoCap
-
+  
 ## Data Science and Finance
 
 Find me in [LinkedIn](https://www.linkedin.com/in/galileocap/)
