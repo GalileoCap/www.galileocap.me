@@ -1,3 +1,8 @@
+---
+title: GalileoCap
+description: Developer Portfolio
+---
+
 # GalileoCap
 
 ## Data Science and Finance
