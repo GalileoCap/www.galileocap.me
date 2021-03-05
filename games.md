@@ -1,5 +1,1 @@
-layout: page
-title: "My games"
-permalink: /games/
-
-# Test
+# My games

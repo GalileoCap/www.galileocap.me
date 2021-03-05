@@ -23,5 +23,5 @@ You can see and use the scripts from [here](https://github.com/GalileoCap/ds_fin
 
 ### Games
 
-I make games as a hobby. You can find downloads and more information [here](games/)
+I make games as a hobby. You can find downloads and more information [here](games)  
 Right now I'm working on [a card game](games/card_game)
