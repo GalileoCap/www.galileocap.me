@@ -19,3 +19,9 @@ Collect backtesting data not available from other sources.
 Propose trades, visualize.  
   
 You can see and use the scripts from [here](https://github.com/GalileoCap/ds_finance_tools) and try it [here](https://colab.research.google.com/drive/1pNGW--nfeHYF7zewTr5haO4LXBRpRd10?usp=sharing) without installing (using Google Colab)
+
+
+### Games
+
+I make games as a hobby. You can find downloads and more information [here](games/)
+Right now I'm working on [a card game](games/card_game)
