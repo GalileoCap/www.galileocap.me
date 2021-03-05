@@ -1,4 +1,7 @@
-# My games
+---
+title: GalileoCap
+description: My Games
+---
 
 ## Card game
 
