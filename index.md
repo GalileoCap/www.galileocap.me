@@ -23,6 +23,10 @@ You can see and use the scripts from [here](https://github.com/GalileoCap/ds_fin
 Analyzing a 2M vertix utlity distribution network for a client, data and code is confidential.  
 [Here](https://github.com/GalileoCap/ds_networks_study_1) I share some general tools and methods.
 
+### Sentiment Analysis in music
+
+I analyzed the sentiment and lexical richness of songs by the top 100 artists, [here](https://labodatos.galileocap.me/) you can see some of the data we analyzed.
+
 ### Games
 
 I make games as a hobby. You can find downloads and more information [here](games)  
