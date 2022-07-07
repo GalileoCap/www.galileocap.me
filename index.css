@@ -389,6 +389,10 @@ em,i,strong {
     content: "#"
 }
 
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 .post-info .feather {
     display: inline-block;
     vertical-align: -.125em;
