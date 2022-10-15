@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "content/games"]
+	path = content/games
+	url = git@github.com:GalileoCap/games.git
