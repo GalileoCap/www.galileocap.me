@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev.galileocap.me/archives/</loc>
-  </url><url>
     <loc>https://dev.galileocap.me/categories/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dev.galileocap.me/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dev.galileocap.me/search/</loc>
+    <loc>https://dev.galileocap.me/tags/gamedev/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/categories/gamedev/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/games/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/games/namle/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dev.galileocap.me/tags/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/tags/videogames/</loc>
+    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/games/connways_soldiers/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/games/text_games/</loc>
+    <lastmod>2013-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.galileocap.me/archive/</loc>
+  </url><url>
+    <loc>https://dev.galileocap.me/search/</loc>
   </url>
 </urlset>

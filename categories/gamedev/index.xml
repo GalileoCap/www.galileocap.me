@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GalileoCap</title>
-    <link>https://dev.galileocap.me/</link>
-    <description>Recent content on GalileoCap</description>
+    <title>GameDev on GalileoCap</title>
+    <link>https://dev.galileocap.me/categories/gamedev/</link>
+    <description>Recent content in GameDev on GalileoCap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dev.galileocap.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dev.galileocap.me/categories/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games</title>
+      <link>https://dev.galileocap.me/games/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.galileocap.me/games/</guid>
+      <description>Games I&amp;#39;ve worked on</description>
+    </item>
+    
     <item>
       <title>Namle</title>
       <link>https://dev.galileocap.me/games/namle/</link>
@@ -36,8 +45,6 @@ Check it out on my GitHub.</description>
       <description>A collection of text-based games I made when I was 13 on Twine, they&amp;rsquo;re all in Spanish.
 Prueba Web Gastar y Recargar t3 Fede 2 Fede 3 FedeYMauri </description>
     </item>
-    
-    
     
   </channel>
 </rss>
