@@ -17,11 +17,38 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>https://dev.galileocap.me/categories/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.galileocap.me/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OSDev</title>
       <link>https://dev.galileocap.me/categories/osdev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dev.galileocap.me/categories/osdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://dev.galileocap.me/categories/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.galileocap.me/categories/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TTRPG</title>
+      <link>https://dev.galileocap.me/categories/ttrpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.galileocap.me/categories/ttrpg/</guid>
       <description></description>
     </item>
     

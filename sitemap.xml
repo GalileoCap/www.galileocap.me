@@ -34,6 +34,8 @@
   </url><url>
     <loc>https://dev.galileocap.me/archive/</loc>
   </url><url>
+    <loc>https://dev.galileocap.me/categories/blog/</loc>
+  </url><url>
     <loc>https://dev.galileocap.me/tags/osdev/</loc>
   </url><url>
     <loc>https://dev.galileocap.me/categories/osdev/</loc>
@@ -41,6 +43,12 @@
     <loc>https://dev.galileocap.me/osdev/</loc>
   </url><url>
     <loc>https://dev.galileocap.me/search/</loc>
+  </url><url>
+    <loc>https://dev.galileocap.me/categories/story/</loc>
+  </url><url>
+    <loc>https://dev.galileocap.me/categories/ttrpg/</loc>
+  </url><url>
+    <loc>https://dev.galileocap.me/ttrpg/</loc>
   </url><url>
     <loc>https://dev.galileocap.me/tags/tutorial/</loc>
   </url><url>
