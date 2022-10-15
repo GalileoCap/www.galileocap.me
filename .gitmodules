@@ -4,3 +4,7 @@
 [submodule "content/games"]
 	path = content/games
 	url = git@github.com:GalileoCap/games.git
+[submodule "content/osdev"]
+	path = content/osdev
+	url = git@github.com:GalileoCap/osdev.git
+  branch = blog
