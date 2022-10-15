@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://galileocap.me/archives/</loc>
+    <loc>https://dev.galileocap.me/archives/</loc>
   </url><url>
-    <loc>https://galileocap.me/categories/</loc>
+    <loc>https://dev.galileocap.me/categories/</loc>
   </url><url>
-    <loc>https://galileocap.me/</loc>
+    <loc>https://dev.galileocap.me/</loc>
   </url><url>
-    <loc>https://galileocap.me/search/</loc>
+    <loc>https://dev.galileocap.me/search/</loc>
   </url><url>
-    <loc>https://galileocap.me/tags/</loc>
+    <loc>https://dev.galileocap.me/tags/</loc>
   </url>
 </urlset>
