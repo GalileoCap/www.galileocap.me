@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://galileocap.me/sitemap.xml
