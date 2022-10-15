@@ -66,23 +66,29 @@ menu:
     - identifier: osdev
       name: OSDev
       url: /osdev/
-      wight: 10
+      weight: 20
     - identifier: games
       name: Games
       url: /games/
-      wight: 20
+      weight: 30
     - identifier: serach
       name: Search
       url: /search/
-      wight: 30
+      weight: 98
     - identifier: tags
       name: Tags
       url: /tags/
-      wight: 40
+      weight: 99
     - identifier: archive
       name: Archive
       url: /archive/
-      wight: 50
+      weight: 100
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 pygmentsUseClasses: true
 markup:
