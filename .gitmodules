@@ -8,3 +8,6 @@
 	path = content/osdev
 	url = git@github.com:GalileoCap/osdev.git
   branch = blog
+[submodule "content/ttrpg"]
+	path = content/ttrpg
+	url = git@github.com:GalileoCap/ttrpg.git

@@ -71,7 +71,11 @@ menu:
       name: Games
       url: /games/
       weight: 30
-    - identifier: serach
+    - identifier: ttrpg
+      name: TTRPG
+      url: /ttrpg/
+      weight: 40
+    - identifier: search
       name: Search
       url: /search/
       weight: 98
