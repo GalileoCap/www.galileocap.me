@@ -11,3 +11,6 @@
 [submodule "content/ttrpg"]
 	path = content/ttrpg
 	url = git@github.com:GalileoCap/ttrpg.git
+[submodule "content/uni"]
+	path = content/uni
+	url = git@github.com:GalileoCap/uni.git

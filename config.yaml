@@ -67,6 +67,10 @@ menu:
       name: OSDev
       url: /osdev/
       weight: 20
+    - identifier: uni
+      name: College
+      url: /college/
+      weight: 25
     - identifier: games
       name: Games
       url: /games/
