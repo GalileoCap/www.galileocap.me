@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dev.galileocap.me/categories/gamedev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Games</title>
-      <link>https://dev.galileocap.me/games/</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev.galileocap.me/games/</guid>
-      <description>Games I&amp;#39;ve worked on</description>
-    </item>
-    
-    <item>
       <title>Namle</title>
       <link>https://dev.galileocap.me/games/namle/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
@@ -44,6 +35,15 @@ Check it out on my GitHub.</description>
       <guid>https://dev.galileocap.me/games/text_games/</guid>
       <description>A collection of text-based games I made when I was 13 on Twine, they&amp;rsquo;re all in Spanish.
 Prueba Web Gastar y Recargar t3 Fede 2 Fede 3 FedeYMauri </description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://dev.galileocap.me/games/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dev.galileocap.me/games/</guid>
+      <description>Games I&amp;#39;ve worked on</description>
     </item>
     
   </channel>
