@@ -2,3 +2,126 @@ baseURL: https://galileocap.me/
 languageCode: en-us
 title: GalileoCap
 theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-QN3FSE1663
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: GalileoCap
+  description: "ExampleSite description" #TODO
+  keywords: [Blog, Portfolio] # TODO
+  author: Galileo Cappella
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto #dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets: #TODO
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "GalileoCap"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Galileo Cappella
+    subtitle: "Welcome to my personal site!" #TODO
+    imageUrl: "profile.png"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: Profile picture
+    buttons:
+      - name: Projects
+        url: projects
+      - name: Games
+        url: games
+      - name: Tutorials
+        url: tutorials
+      - name: Blog
+        url: blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/GalileoCap"
+    - name: twitter
+      url: "https://twitter.com/GalileoCap"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/galileocap"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-QN3FSE1663"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 99
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 100
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
