@@ -2,8 +2,8 @@
 title: "Connway's Soldiers"
 date: 2020-05-17
 draft: false
-tags: ["GameDev", "VideoGames"]
-categories: ["GameDev"]
+tags: ["Games", "GameDev"]
+categories: ["Games", "GameDev"]
 ---
 
 Connway's Soldiers, a [famous math game](https://en.wikipedia.org/wiki/Conway%27s_Soldiers) implemented in Godot for Android.  

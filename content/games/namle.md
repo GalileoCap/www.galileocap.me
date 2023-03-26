@@ -2,8 +2,8 @@
 title: "Namle"
 date: 2022-02-17
 draft: false
-tags: ["GameDev", "VideoGames"]
-categories: ["GameDev"]
+tags: ["Games", "GameDev"]
+categories: ["Games", "GameDev"]
 ---
 
 A Wordle clone about guessing names.  

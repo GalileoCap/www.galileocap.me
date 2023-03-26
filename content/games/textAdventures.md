@@ -2,8 +2,8 @@
 title: "Text Adventures"
 date: 2013-12-31
 draft: false
-tags: ["Games"]
-categories: ["Games"]
+tags: ["Games", "GameDev"]
+categories: ["Games", "GameDev"]
 ---
 
 A collection of text-based games I made when I was 13 on [Twine](https://twinery.org/), they're all in Spanish.
